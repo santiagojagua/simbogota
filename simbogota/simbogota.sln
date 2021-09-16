@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simbogota", "simbogota\simbogota.csproj", "{27762034-AACA-45A1-B248-1FC4B749A458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simbogotaClassLibrary", "simbogotaClassLibrary\simbogotaClassLibrary.csproj", "{4044C257-5012-4112-9172-DF9F351A5967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27762034-AACA-45A1-B248-1FC4B749A458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27762034-AACA-45A1-B248-1FC4B749A458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27762034-AACA-45A1-B248-1FC4B749A458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27762034-AACA-45A1-B248-1FC4B749A458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4044C257-5012-4112-9172-DF9F351A5967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4044C257-5012-4112-9172-DF9F351A5967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4044C257-5012-4112-9172-DF9F351A5967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4044C257-5012-4112-9172-DF9F351A5967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFC4D52-3F17-4D71-AB4E-0DA070805770}
+	EndGlobalSection
+EndGlobal
